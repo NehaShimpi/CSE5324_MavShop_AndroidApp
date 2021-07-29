@@ -1,6 +1,8 @@
 # CSE5324_MavShop_AndroidApp
 
 ▪ Link the app:-https://youtu.be/GgLKF9vBVLU
+
+▪ Database Used:- Google Firebase(Realtime Database)
   
 ▪ App Title:- MAV$HOP
 
